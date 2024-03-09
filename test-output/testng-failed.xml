@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Assert TestNG]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="fblogin(failed)">
+    <classes>
+      <class name="org.TestNGSpecialCase.HardAssertClass">
+        <methods>
+          <include name="istagramPage"/>
+        </methods>
+      </class> <!-- org.TestNGSpecialCase.HardAssertClass -->
+    </classes>
+  </test> <!-- fblogin(failed) -->
+</suite> <!-- Failed suite [Assert TestNG] -->

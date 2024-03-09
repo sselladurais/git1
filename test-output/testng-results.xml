@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-09T21:51:10Z" name="Default suite" finished-at="2024-02-09T21:51:23Z" duration-ms="13302">
+    <groups>
+    </groups>
+    <test started-at="2024-02-09T21:51:10Z" name="Default test" finished-at="2024-02-09T21:51:23Z" duration-ms="13302">
+      <class name="org.TestNGSpecialCase.SoftAssertClass">
+        <test-method signature="fbPage()[pri:0, instance:org.TestNGSpecialCase.SoftAssertClass@106cc338]" started-at="2024-02-09T21:51:10Z" name="fbPage" finished-at="2024-02-09T21:51:23Z" duration-ms="13253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbPage -->
+      </class> <!-- org.TestNGSpecialCase.SoftAssertClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
